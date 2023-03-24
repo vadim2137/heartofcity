@@ -1,0 +1,99 @@
+body {
+  background: #f9faf8;
+}
+.form form {
+  width: 300px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+.img {
+  width: 100%;
+}
+.btn-success{
+--bs-btn-color: #fff;
+  --bs-btn-bg: #77B33C;
+  --bs-btn-border-color: #77B33C;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #6EA638;
+  --bs-btn-hover-border-color: #6EA638;
+  --bs-btn-focus-shadow-rgb: 60, 153, 110;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #6EA638;
+  --bs-btn-active-border-color: #6EA638;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #77B33C;
+  --bs-btn-disabled-border-color: #77B33C;
+}
+.btn-outline-success {
+  --bs-btn-color: #77B33C;
+  --bs-btn-border-color: #77B33C;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #77B33C;
+  --bs-btn-hover-border-color: #77B33C;
+  --bs-btn-focus-shadow-rgb: 25, 135, 84;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #77B33C;
+  --bs-btn-active-border-color: #77B33C;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #77B33C;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #77B33C;
+  --bs-gradient: none;
+}
+.calltoatxt{
+width: 501px;
+height: 116px;
+left: 73px;
+top: 286px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 120%;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #253515;
+}
+.calltoah{
+  width: 594px;
+height: 142px;
+left: 73px;
+top: 109px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 75px;
+line-height: 95%;
+/* or 71px */
+
+letter-spacing: 0.02em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* основной темнее */
+
+color: #253515;
+}
+
+.ei127_372_127_155 { 
+padding: 10px 25px;
+gap: 10px;
+width: 204px;
+height: 45px;
+
+top: 9px;
+border: 2px solid #77B33C;
+border-radius: 25px;
+}
+.ei127_372_127_155_127_148 { 
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 0.02em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #77B33C;
+
+}
